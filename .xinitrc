@@ -1,3 +1,3 @@
 exec dwm
-feh --bg-scale Pictures/anime-boy-computer.jpg
+feh --bg-scale Pictures/wallpaper/anime-boy-computer.jpg
 
