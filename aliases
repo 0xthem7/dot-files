@@ -1,0 +1,8 @@
+# aliases for led light keyboard
+alias lightsOn='xset led on'
+alias lightsOff='xset led off'
+alias shoot='poweroff'
+
+# PATH
+export PATH=$PATH:/home/them7/go/bin
+    
